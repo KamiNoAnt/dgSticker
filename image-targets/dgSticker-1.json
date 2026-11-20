@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 1688,
+    "left": 799,
+    "width": 536,
+    "height": 715,
+    "isRotated": false,
+    "originalWidth": 1908,
+    "originalHeight": 4032
+  },
+  "imagePath": "image-targets/dgSticker-1_luminance.jpg",
+  "metadata": null,
+  "name": "dgSticker-1",
+  "resources": {
+    "originalImage": "dgSticker-1_original.jpg",
+    "croppedImage": "dgSticker-1_cropped.jpg",
+    "thumbnailImage": "dgSticker-1_thumbnail.jpg",
+    "luminanceImage": "dgSticker-1_luminance.jpg"
+  },
+  "created": 1795189724615,
+  "updated": 1795189737998
+}
